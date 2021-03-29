@@ -37,3 +37,10 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+.Rprofile
+
+*.Rproj
+
+test*
+
+outputs/*.pptx
